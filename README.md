@@ -1,6 +1,6 @@
-### Hi I'm Stemps
+## Hi I'm Stemps
 
-### Frontend Developer 💻
+## Frontend Developer 💻
 
 ### Info...
 
