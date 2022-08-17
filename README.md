@@ -3,4 +3,4 @@ hi
 
 
 ----------
-<img src="https://img.shields.io/badge/React-111111?style=flat&logo=React&logoColor=ffffff"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
