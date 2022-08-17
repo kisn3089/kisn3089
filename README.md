@@ -2,7 +2,7 @@
 
 ## Frontend Developer 💻
 
-### Info...
+###🏻‍🧑🏻‍💻 Info...
 
 ```javascript
 const InSung = {
