@@ -1,4 +1,4 @@
-## Hi! I'm InSung!
+## Hello!
 
 ## Frontend Developer 💻
 
