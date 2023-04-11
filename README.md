@@ -1,4 +1,4 @@
-## Hola! I'm InSung!
+## Hi! I'm InSung!
 
 ## Frontend Developer 💻
 
@@ -8,7 +8,8 @@
 const InSung = {
   nickname: "Stemps",
   point: ["interactive web", "UI/UX", "3D"],
-  studying: ["next", "typeScript"],
+  skill: ["typeScript", "react-query", "recoil"]
+  studying: ["next.js"],
 }
 ```
 
