@@ -8,7 +8,7 @@
 const InSung = {
   nickname: "Stemps",
   point: ["interactive web", "UI/UX", "3D"],
-  skill: ["typeScript", "react-query", "recoil"]
+  skill: ["typeScript", "react-query", "recoil"],
   studying: ["next.js"],
 }
 ```
