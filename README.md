@@ -6,7 +6,7 @@
 
 ```javascript
 const InSung = {
-  nickname: "Stemps",
+  nickname: "Stems",
   point: ["interactive web", "UI/UX", "3D"],
   skill: ["typeScript", "react-query", "recoil"],
   studying: ["next.js"],
